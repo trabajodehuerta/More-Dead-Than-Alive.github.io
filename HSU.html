@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Hermandad de Salvaguardia (HSU)</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            padding: 0;
+            background-color: #1d222d;
+            color: #E0E0E0;
+            text-align: center;
+        }
+
+        header {
+            background: #2c5b72;
+            padding: 20px;
+            font-size: 28px;
+            font-weight: bold;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            left: 0;
+            z-index: 100;
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.5);
+            color: white;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 120px 20px 50px 20px;
+            text-align: justify;
+            line-height: 1.6;
+        }
+
+        h2 {
+            color: #2c5b72;
+            border-bottom: 2px solid #2c5b72;
+            display: inline-block;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+            padding: 0 20px;
+        }
+
+        .card {
+            background: #1d222d;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .card img {
+            width: 100%;
+            max-width: 280px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 0px 4px 8px rgba(255, 255, 255, 0.1);
+        }
+
+        .card a {
+            display: block;
+            color: #2c5b72;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        footer {
+            background: #2c5b72;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            margin-top: 30px;
+        }
+        .main-image {
+            width: 90%;
+            max-width: 900px;
+            margin: 20px auto;
+            display: block;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>HERMANDAD DE SALVAGUARDIA (HSU)</header>
+    <br><br><br>
+    <center><img src="HSU.png" class="main-image"></center>
+    <div class="container">
+        <h2>🌟 ¿Qué es la Hermandad de Salvaguardia?</h2>
+        <p>
+            La Hermandad de Salvaguardia es una organización dedicada a la protección y preservación de la vida en situaciones de crisis y desastres globales. 
+            Se enfoca en misiones de rescate, asistencia humanitaria y control de daños durante conflictos de alto riesgo.
+        </p>
+        <p>
+            Aunque opera en la sombra en muchas ocasiones, su impacto es innegable. Sus miembros son entrenados para actuar con rapidez y precisión,
+            asegurando que ninguna vida se pierda innecesariamente.
+        </p>
+
+        <div class="grid">
+            <div class="card">
+                <img src="normativas.png" alt="Normativas">
+                <a href="reglas_hsu.html">📜 Normativas</a>
+                <p>Descubre los protocolos que rigen a la HSU.</p>
+            </div>
+
+            <div class="card">
+                <img src="organizativa.png" alt="Estructura Organizativa">
+                <a href="rangos_hsu.html">🏅 Estructura Organizativa</a>
+                <p>Conoce los niveles jerárquicos dentro de la Hermandad.</p>
+            </div>
+
+            <div class="card">
+                <img src="reconocidos.png" alt="Héroes de la HSU">
+                <a href="heroes_hsu.html">⚔ Héroes Reconocidos</a>
+                <p>Conoce a los miembros más destacados de la Hermandad.</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        © 2025 More Dead Than Alive - Todos los derechos reservados.
+    </footer>
+</body>
+</html>
+
+

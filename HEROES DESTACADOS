@@ -1,0 +1,63 @@
+
+
+<div class="grid">
+    <div class="card">
+        <img src="aegis.png" alt="Aegis">
+        <a href="aegis.html">🛡 AEGIS</a>
+        <p>"No se necesita gritar para mantener el orden. Solo estar presente en el lugar correcto... con la autoridad correcta."</p>
+    </div>
+
+    <div class="card">
+        <img src="sentinel.png" alt="Sentinel">
+        <a href="sentinel.html">⚔️ SENTINEL</a>
+        <p>"Si lo hice bien, no me recordarás. Porque los muertos no hablan... y los vivos nunca supieron que estuve ahí."</p>
+    </div>
+
+    <div class="card">
+        <img src="meridian.png" alt="Meridian">
+        <a href="meridian.html">🕊 MERIDIAN</a>
+        <p>"Una guerra se gana cuando no necesitas disparar. Yo solo hablo. Y todos escuchan."</p>
+    </div>
+
+    <div class="card">
+        <img src="apex.png" alt="Apex">
+        <a href="apex.html">🔍 APEX</a>
+        <p>"¿Ves el mapa? Yo lo veo en movimiento. Y todos los errores antes de que sucedan."</p>
+    </div>
+
+    <div class="card">
+        <img src="helix.png" alt="Helix">
+        <a href="helix.html">🧬 HELIX</a>
+        <p>"La humanidad se aferra a su carne. Yo la mejoré. ¿Por qué tener miedo de volverse perfecta?"</p>
+    </div>
+
+    <div class="card">
+        <img src="overwatch.png" alt="Overwatch">
+        <a href="overwatch.html">🛰 OVERWATCH</a>
+        <p>"Nadie se escapa si yo estoy mirando. Y siempre, siempre estoy mirando."</p>
+    </div>
+
+    <div class="card">
+        <img src="pulse.png" alt="Pulse">
+        <a href="pulse.html">🚑 PULSE</a>
+        <p>"Salvar vidas no es cuestión de fe. Es cuestión de segundos... y yo no pierdo ninguno."</p>
+    </div>
+
+    <div class="card">
+        <img src="vector.png" alt="Vector">
+        <a href="vector.html">🛫 VECTOR</a>
+        <p>"Llego antes de que la alarma suene. Me voy cuando todo está en ruinas. Ese es mi trabajo."</p>
+    </div>
+
+    <div class="card">
+        <img src="bulwark.png" alt="Bulwark">
+        <a href="bulwark.html">🔨 BULWARK</a>
+        <p>"Cuando el mundo se cae a pedazos, yo soy la pared que no cede."</p>
+    </div>
+
+    <div class="card">
+        <img src="mnemonic.png" alt="Mnemonic">
+        <a href="mnemonic.html">🧠 MNEMONIC</a>
+        <p>"Tus secretos son tuyos... hasta que me tocas. Y entonces, son míos para siempre."</p>
+    </div>
+</div>
