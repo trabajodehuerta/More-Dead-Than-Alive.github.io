@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>AEGIS - Orden de Protección Global</title>
+   
+        <style>
+            body {
+                font-family: 'Courier New', Courier, monospace;
+                background-color: #402e2c;
+                color: #ffffff;
+                margin: 0;
+                padding: 0;
+                font-size: larger;
+            }
+    
+            header {
+                background-color: #8a3937;
+                padding: 20px;
+                font-size: 28px;
+                font-weight: bold;
+                position: fixed;
+                width: 100%;
+                top: 0;
+                left: 0;
+                z-index: 100;
+                box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.5);
+                color: white;
+                text-align: center;
+            }
+    
+            .container {
+                max-width: 1000px;
+                margin: auto;
+                padding: 40px 20px;
+                text-align: justify;
+                line-height: 1.7;
+            }
+            .container1 {
+                max-width: 1000px;
+                margin: 10px;
+                padding: 40px 20px;
+                text-align: justify;
+                line-height: 1.7;
+            }
+            h2,H3,H4 {
+                color: #8a3937;
+                margin-top: 40px;
+                border-bottom: 2px solid #8a3937;
+                display: inline-block;
+                padding-bottom: 5px;
+            }
+            b {
+                color: #8a3937;
+              
+                
+                display: inline-block;
+               
+            }
+    H1
+    {
+        color: #8a3937;
+                margin-top: 40px;
+            
+                display: inline-block;
+                padding-bottom: 5px;
+    }
+            .frase {
+                font-style: italic;
+                text-align: center;
+                margin: 20px 0;
+                color: #8a3937;
+                font-size: 20px;
+            }
+    
+            footer {
+                background-color: #8a3937;
+                color: #ffffff;
+                text-align: center;
+                padding: 15px;
+                margin-top: 50px;
+            }
+            .heroe {
+                width: 90%;
+                max-width: 600px;
+                margin: 20px auto;
+                display: block;
+                border-radius: 10px;
+                box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+            }
+            
+            .este{
+                border-left: 4px solid #8a3937;
+                 padding-left: 10px;
+            }
+            .curiosities {
+            list-style-type: none;
+            padding: 0;
+            text-align: left;
+        }
+
+        .curiosities li {
+            background:  #473331;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+
+        .card {
+            background:#f5f3ee;
+            padding: 40px;
+            border-radius: 10px;
+            margin: 30px 0;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease-in-out;
+           
+        }
+
+        .card1 {
+            background:#c77a7a;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease-in-out;
+           
+        }
+        .card:hover {
+            transform: scale(1.02);
+        }
+
+       
+    
+        
+        </style>
+    </head>
+</head>
+
+<body>
+
+<header>AEGIS</header>
+
+<div class="container">
+    <br><br><br>
+    <IMG src="AEGIS.png" CLASS="heroe">
+        <p class="frase">"He escuchado que ser fuerte es no tener miedo. Mentira. Ser fuerte es estar muerta de miedo, pero seguir avanzando porque sabes que tu equipo confía en ti."</p>
+        <div class="container">
+            <h2>PERFIL PROFESIONAL</h2>
+
+<p><strong>Alias Oficial:</strong> Aegis</p>
+<p><strong>Edad:</strong> 36 años</p>
+<p><strong>Puesto:</strong> Especialista en Defensa Integral y Protección Civil – Heroína Número 1</p>
+<p><strong>Lugar de Nacimiento:</strong> Sector Norte, Distrito Tres</p>
+<p><strong>Especialización:</strong> Defensa de Campo, Protección Multifrente, Liderazgo Operativo Bajo Fuego</p>
+
+<p>
+Desde su entrada a la Orden de Protección Global (OPG), Aegis se ha convertido en el estándar de referencia para operaciones defensivas. Donde otros flaquean, ella sostiene. Su enfoque no está en eliminar al enemigo, sino en garantizar que nadie bajo su cuidado caiga. Su historial en escenarios de alto riesgo habla de una constante: si Aegis está en el terreno, hay alguien que no será dejado atrás.
+</p>
+
+<p>
+Aegis es una experta en absorción de impacto, formación de escudos humanos y cobertura directa en zonas críticas. No improvisa su presencia: la planifica, la ejecuta y la sostiene el tiempo que sea necesario. Ha contenido líneas durante horas sin relevo, evacuado civiles bajo fuego cruzado, y soportado cargas físicas y mentales que romperían a cualquier operativa promedio. Su fuerza es una herramienta precisa al servicio de la protección, no un símbolo de poder sin control.
+</p>
+
+<p>
+Entre sus misiones más destacadas se encuentra la protección de un convoy médico bajo ataque en zona de exclusión, la estabilización del perímetro durante el colapso de la central Helix, y la defensa de un refugio civil contra fuerzas hostiles con recursos limitados. No se trata solo de lo que puede soportar, sino de lo que está dispuesta a enfrentar para cumplir su misión: mantener con vida a quienes dependen de ella.
+</p>
+
+<p>
+Para su equipo, Aegis es más que una líder: es una garantía. Su presencia en una operación reduce los márgenes de error y eleva la moral de inmediato. No necesita levantar la voz ni dar discursos; basta con verla avanzar hacia el punto crítico para que el resto sepa que la línea no se va a romper. Su liderazgo es físico, concreto y completamente asumido. Aegis no pide permiso: toma posición y aguanta.
+</p>
+
+<p>
+A nivel institucional, ha sido reconocida como uno de los activos más fiables en condiciones de colapso operacional. Su determinación no responde a medallas, sino a una convicción sencilla: proteger es un deber, y ella está dispuesta a cumplirlo sin importar el costo. En la estructura de la OPG, si Oracle observa el tablero y Umbra corta el problema, Aegis es quien se pone en medio para que nadie más tenga que sangrar.
+</p>
+<h2>CUALIDADES DISTINTIVAS</h2>
+
+<p>
+Aegis no se define por su capacidad ofensiva, sino por su habilidad única para resistir, proteger y sostener bajo presión absoluta. Su mayor cualidad no es levantar muros, sino convertirse en uno. Tiene un dominio total sobre su cuerpo en situaciones límite: cada paso que da, cada postura defensiva que adopta, responde a una necesidad real del entorno. No improvisa resistencia; la estructura, la mantiene y la impone donde más se necesita.
+</p>
+
+<p>
+Su aguante físico es excepcional, pero lo que la separa del resto es su estabilidad emocional bajo condiciones extremas. Aegis puede soportar horas de combate sin relevo, sin vacilar, manteniéndose como punto de anclaje cuando el resto de la unidad ha sido superada. No solo resiste: estabiliza. Su temple mental es inquebrantable, incluso cuando el caos amenaza con desbordar la operación.
+</p>
+
+<p>
+A pesar de su rol como escudo principal en campo, Aegis no actúa desde la obstinación, sino desde una disciplina quirúrgica. No bloquea por reflejo, sino por lectura táctica. Sabe cuándo cubrir, cuándo avanzar y cuándo detenerlo todo. Sigue la cadena de mando al pie de la letra y, aun cuando toma decisiones en caliente, siempre lo hace pensando en el conjunto. Su lealtad no se grita: se demuestra en cada maniobra defensiva.
+</p>
+
+<p>
+Su sola presencia transforma la moral del equipo. Cuando Aegis toma posición, los suyos saben que alguien los va a cubrir sin importar qué pase. No es una figura que impone autoridad desde la voz, sino desde la acción. Ha protegido a compañeros gravemente heridos bajo fuego enemigo, ha cubierto rutas de evacuación con su propio cuerpo, y ha bloqueado amenazas que habrían destruido la unidad si no fuera por su intervención directa.
+</p>
+
+<p>
+Además, Aegis tiene una lectura espacial instintiva. Percibe puntos de ruptura antes de que sucedan, reubica escudos, crea líneas de defensa móviles y sabe cómo canalizar la ofensiva enemiga para minimizar impacto. No está ahí para aguantar golpes al azar: está ahí para asegurarse de que todo el sistema operativo funcione mientras ella lo sostiene desde el frente. En cada misión, prueba que la defensa bien ejecutada no es pasiva, es decisiva.
+</p>
+<h2>RECONOCIMIENTOS Y CONDECORACIONES</h2>
+<ul class="curiosities">
+    <strong>Héroe Número 5 de la OPG – Alias: Aegis</strong><br>
+    <strong>Archivo Gubernamental:</strong> Clasificación Interna OPG-Ω/κ-01 – Acceso Restringido<br>
+    <strong>Actualización de Registro:</strong> AÑO 2049 – División de Mérito en Fuerzas de Contención Extrema<br><br>
+
+    <li><strong>Medalla de Resistencia Operativa Nivel Omega</strong><br>
+    Otorgada por mantener posiciones defensivas en combate activo durante más de 96 horas sin relevo, conteniendo múltiples intentos de ruptura sin comprometer la línea. Aegis ha recibido esta medalla en tres campañas distintas.</li>
+
+    <li><strong>Condecoración de Integridad bajo Fuego Crítico</strong><br>
+    Reconocimiento por preservar la cohesión de escuadrones en escenarios de colapso estructural. Durante la defensa del Corredor Norte, Aegis protegió a cinco agentes heridos mientras bloqueaba el acceso de fuerzas hostiles, evitando una brecha total.</li>
+
+    <li><strong>Insignia de Protección Incondicional</strong><br>
+    Concedida a operativos que han priorizado la vida de civiles por encima de su seguridad personal. Aegis ha liderado y ejecutado diecisiete evacuaciones en zonas con riesgo de colapso inminente, incluso bajo fuego directo.</li>
+
+    <li><strong>Distintivo de Intervención en Entornos Colapsados</strong><br>
+    Reconocimiento por operaciones donde el desplazamiento de estructuras ha sido clave para la extracción de personal atrapado. Aegis ha reconfigurado zonas colapsadas para abrir rutas de escape en múltiples situaciones de desastre estructural.</li>
+
+    <li><strong>Medalla de Contención Avanzada en Zona Roja</strong><br>
+    Por su papel como ancla defensiva en escenarios con fuerzas hostiles de nivel crítico. Su presencia ha sido fundamental para estabilizar el frente y permitir la intervención segura del resto de unidades.</li>
+
+    <li><strong>Reconocimiento de Estabilidad Moral Prolongada</strong><br>
+    Otorgado tras múltiples evaluaciones psicológicas en misiones de alto desgaste. Aegis ha sido identificada como un eje emocional para su equipo durante y después de eventos de gran pérdida o exposición continua a estrés extremo.</li>
+
+    <li><strong>Mención del Consejo de Apoyo Táctico Interregional</strong><br>
+    Entregada por reforzar posiciones fuera de su sector de asignación durante la Crisis de los Páramos del Sur. Aegis intervino sin respaldo logístico local, asegurando la supervivencia de tres líneas aliadas.</li>
+
+    <li><strong>Certificación de Cero Abandono</strong><br>
+    Documento oficial que valida que Aegis jamás ha dejado atrás a ningún miembro de su unidad, independientemente del nivel de riesgo o condiciones operativas. Esta certificación está respaldada por informes cruzados de campo y testigos directos.</li><br>
+
+    <strong>Nota Final del Registro de Méritos:</strong><br>
+    <em>Por la naturaleza de su función en escenarios de impacto directo, parte del historial operativo de Aegis permanece bajo clasificación. Los méritos aquí presentados han sido autorizados para programas de entrenamiento avanzado en contención, liderazgo y evacuación táctica.</em>
+</ul>
+
+<h2>FILOSOFÍA Y COMPROMISO</h2>
+
+<p>Aegis no se define por el rol que ocupa, sino por lo que está dispuesta a hacer. No está en el terreno por fama ni por reconocimiento. Está porque alguien debe mantener la línea cuando todo se rompe. Su idea de protección no es romántica: <b>si puede cubrir a alguien con su cuerpo, con su escudo o con su presencia, entonces eso es lo que va a hacer. Y lo va a hacer hasta el final</b>.</p>
+
+<p>No espera condiciones ideales ni órdenes perfectas. Aegis actúa cuando el riesgo es alto, cuando ya no hay margen para esperar. <b>Donde otros analizan, ella ya está encima, cubriendo a los que dudan, asegurando a los que titubean</b>. No porque le falte juicio, sino porque conoce su lugar en la cadena: contener, proteger, resistir. Ese es su trabajo, y lo toma en serio.</p>
+
+<p>No busca liderar con discursos ni figurar en informes. Aegis lidera con hechos: entra primero, se retira última, y si alguien cae, vuelve a entrar. No reparte excusas ni se esconde detrás de protocolos. Si hay que absorber un golpe, lo hace. Si hay que sostener un punto hasta que lleguen refuerzos, se queda. Y si algo falla, no pregunta quién fue: lo arregla.</p>
+
+<p>Su compromiso no cambia con las condiciones. Bajo fuego, en derrumbes, en operaciones de evacuación o en ofensivas de alto riesgo, su conducta es la misma: <b>cubrir, asegurar y no soltar</b>. Ha operado con quemaduras, con fracturas, sin relevo. No presume de eso, pero tampoco lo niega. Para ella, es parte del trato.</p>
+
+<p>En el equipo, Aegis genera una confianza inmediata. No porque hable mucho —no lo hace—, sino porque nunca falla. Su presencia significa que nadie queda atrás. Si una línea se dobla, ella se planta. Si alguien cae, ella lo levanta. <b>No exige perfección, pero no permite abandono</b>.</p>
+
+<p>Aegis no mide su valor por la cantidad de enemigos abatidos, sino por la cantidad de vidas que logra mantener en pie. Cree que <b>el verdadero heroísmo no es entrar a pelear, sino quedarse cuando ya no quedan garantías</b>. Por eso está en la OPG. No para ser vista, sino para que otros sobrevivan.</p>
+
+<p>En resumen, <b>Aegis representa la filosofía del cuerpo al frente, del escudo firme y del compromiso real con quienes no pueden defenderse</b>. No es la más rápida ni la más visible, pero es la que sigue cubriéndote cuando todo lo demás ha fallado.</p>
+
+<div class="este">  
+    “Pueden contar daños cuando todo termine. Ahora hay que resistir. Nadie cae mientras yo esté en pie.”
+</div>
+
+<h2>MENSAJE A LA CIUDADANÍA</h2> 
+<p><i>"No vine para que me agradezcan. Vine para que puedan volver a casa. Si sus hijos no tienen que correr, si sus ventanas siguen enteras, entonces hice lo que tenía que hacer. Y si vuelve a pasar, ahí estaré otra vez."</i></p>
+
+
+
+
+<h2>NOTA FINAL</h2>
+<p>
+La Orden de Protección Global reconoce a Aegis como una de sus figuras esenciales en operaciones de cobertura táctica y protección activa. Su capacidad para sostener posiciones bajo presión, salvaguardar vidas civiles y mantener la cohesión del equipo en escenarios de alto riesgo ha sido decisiva en múltiples misiones críticas.
+</p>
+<p>
+Aegis no actúa por visibilidad, sino por responsabilidad. Su fortaleza no se basa únicamente en su escudo o su técnica, sino en su decisión inquebrantable de mantenerse firme cuando todo lo demás falla. Donde otros titubean, ella sostiene. Donde todo se rompe, ella cubre. Su impacto no se mide en discursos, sino en personas que lograron volver a casa gracias a su cobertura.
+</p>
+<p>
+Mientras existan amenazas que deban ser contenidas con determinación, precisión y presencia física real, Aegis seguirá cumpliendo su rol sin desvíos. Puede que su nombre no siempre esté en los reportes públicos, pero su valor es incuestionable para esta institución. Por eso, la OPG reafirma su respaldo total a su labor presente y futura.
+</p>
+
+        </div>
+    </div><footer>
+        © 2025 Orden de Protección Global - Todos los derechos reservados.
+    </footer>
+    </body></html>
